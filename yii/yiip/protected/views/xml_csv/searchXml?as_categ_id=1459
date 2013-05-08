@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE response SYSTEM "http://www.mercadolibre.com.ar/jm/ml.xml.dtd?id=DTD_ITEMS&charset=ISO-8859-1">
+<response type="items_listing" generation_date_gmt="Wed, 08 May 2013 20:44:25 GMT">
+<copyright>Copyright © 1999-2012 MercadoLibre S.A.</copyright>
+<url>http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1459&amp;&amp;as_categ_id=1459</url>
+<listing items_from="1" items_to="10" items_total="9537" order_by="Más Relevantes">
+	<search_properties>
+	       <word include_description="N"></word>
+               <filters>
+                  <filter></filter>
+                  <filter2></filter2>
+                  <state></state>
+                  <price></price>
+               </filters>
+		<parent_categories>
+			
+		</parent_categories>
+	</search_properties>
+	<result_categories>
+		<category id="1472" name="Departamentos" qty_items="4184" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1472" />
+<category id="1466" name="Casas" qty_items="1826" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1466" />
+<category id="1493" name="Terrenos y Lotes" qty_items="1251" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1493" />
+<category id="50538" name="Oficinas y Consultorios" qty_items="540" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=50538" />
+<category id="79242" name="Locales" qty_items="405" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=79242" />
+<category id="105179" name="PH" qty_items="355" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=105179" />
+<category id="50545" name="Fondo de Comercio" qty_items="285" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=50545" />
+<category id="1892" name="Otro Inmueble" qty_items="146" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1892" />
+<category id="50547" name="Quintas" qty_items="139" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=50547" />
+<category id="1475" name="Depósitos y Galpones" qty_items="132" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1475" />
+<category id="50541" name="Cocheras" qty_items="124" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=50541" />
+<category id="1496" name="Campos" qty_items="85" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1496" />
+<category id="50536" name="Tiempo Compartido" qty_items="44" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=50536" />
+<category id="50544" name="Parcelas, Nichos y Bóvedas" qty_items="21" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=50544" />
+
+	</result_categories>
+	<items>
+		<item id="449852922">
+        <title>Casas Prefabricadas , Americanas, Cabañas Premoldeadas</title>
+        <subtitle>Somos Fabricantes  Casas Totalmente En Cuotas</subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=449852922</link><city>Merlo</city>
+<type>CASAS</type>
+<neighbourhood>Merlo</neighbourhood>
+<oper>Venta</oper>
+<size>20m²</size>
+<rooms>3 amb</rooms>
+<ambientes>3</ambientes><antiguedad>A estrenar</antiguedad><baños>1</baños><dormitorios>2</dormitorios><edificacion>Casa</edificacion><mtrscubiertos>20</mtrscubiertos><suptotal>20</suptotal>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=92206840_6276.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>Y</mpago>
+	<currency>$</currency>
+        <price>13,650.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>24864</hits>
+        <auct_end>Mon, 13 May 2013 22:08:20 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 8</points>
+                <composition> 90% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="450379569">
+        <title>Casa Quinta 4000 Mtrs Inmejor. Ubicacion, Pileta De 15 X 9</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=450379569</link><city>Ezeiza</city>
+<type>QUINTAS</type>
+<neighbourhood>Canning</neighbourhood>
+<oper>Alquiler Temporario</oper>
+<size>0m²</size>
+<rooms>4 amb</rooms>
+<ambientes>Más de 4</ambientes><antiguedad>Max 20 años</antiguedad><baños>4</baños><edificacion>Chalet</edificacion><mtrscubiertos>300</mtrscubiertos>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=144400423_3388.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>Y</mpago>
+	<currency>$</currency>
+        <price>1,200.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>13389</hits>
+        <auct_end>Sat, 18 May 2013 18:05:59 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Sur</zones>
+        <feedback>
+                <points> Puntaje: 10</points>
+                <composition> 86% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="451416390">
+        <title>Lotes De 300 A 450 Mts. En Escobar, Cuotas Fijas Y En Pesos</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=451416390</link><city>Escobar</city>
+<type>TERRENOS Y LOTES</type>
+<neighbourhood>Belén de Escobar</neighbourhood>
+<oper>Venta</oper>
+<size>300m²</size>
+<rooms>0 amb</rooms>
+<disposicionlote>Otro</disposicionlote><lugar>Sobre calle</lugar><suptotal>300</suptotal>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=2865119056_072012.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>Y</mpago>
+	<currency>$</currency>
+        <price>43,120.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>11456</hits>
+        <auct_end>Mon, 27 May 2013 15:58:15 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Norte</zones>
+        <feedback>
+                <points> Puntaje: 3</points>
+                <composition> 100% positivas </composition>
+        </feedback>   
+        <condition>Nuevo</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="450713732">
+        <title>Monoambiente En Palermo A Estrenar</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=450713732</link><city>Capital Federal</city>
+<type>DEPARTAMENTOS</type>
+<neighbourhood>Palermo</neighbourhood>
+<oper>Alquiler Temporario</oper>
+<size>46m²</size>
+<rooms>1 amb</rooms>
+<ambientes>1</ambientes><antiguedad>A estrenar</antiguedad><baños>1</baños><dormitorios>1</dormitorios><edificacion>Departamento</edificacion><ascensor>Sí</ascensor><garage>No tiene</garage><lugar>A la calle</lugar><mtrscubiertos>40</mtrscubiertos><suptotal>46</suptotal>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=3859510671_022013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>Y</mpago>
+	<currency>$</currency>
+        <price>350.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>3676</hits>
+        <auct_end>Tue, 21 May 2013 02:23:02 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Capital Federal</zones>
+        <feedback>
+                <points> Puntaje: 68</points>
+                <composition> 91% positivas </composition>
+        </feedback>   
+        <condition>Nuevo</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="454154680">
+        <title>Dueño 2 Ambientes Sin Garantia Incluido Expensas Abl Aguas</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=454154680</link><city>Capital Federal</city>
+<type>DEPARTAMENTOS</type>
+<neighbourhood>Versailles</neighbourhood>
+<oper>Alquiler</oper>
+<size>45m²</size>
+<rooms>2 amb</rooms>
+<ambientes>2</ambientes><antiguedad>Hasta 40 años</antiguedad><baños>1</baños><dormitorios>1</dormitorios><edificacion>Departamento</edificacion><ascensor>Sí</ascensor><garage>No tiene</garage><lugar>A la calle</lugar><mtrscubiertos>40</mtrscubiertos><suptotal>45</suptotal>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=4184458856_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>2,700.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>3923</hits>
+        <auct_end>Wed, 19 Jun 2013 11:35:22 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Capital Federal</zones>
+        <feedback>
+                <points> Puntaje: 3126</points>
+                <composition> 100% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="449995065">
+        <title>Cabañas - Bariloche - Vista Al Lago Nahuel Huapi !!!</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=449995065</link><city>Bariloche</city>
+<type>DEPARTAMENTOS</type>
+<neighbourhood>San Carlos de Bariloche</neighbourhood>
+<oper>Alquiler Temporario</oper>
+<size>897m²</size>
+<rooms>2 amb</rooms>
+<ambientes>2</ambientes><antiguedad>Hasta 10 años</antiguedad><baños>1</baños><dormitorios>2</dormitorios><edificacion>Departamento</edificacion><lugar>A la calle</lugar><mtrscubiertos>35</mtrscubiertos><suptotal>897</suptotal>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=130723973_4706.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>Y</mpago>
+	<currency>$</currency>
+        <price>250.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>1416</hits>
+        <auct_end>Tue, 14 May 2013 23:35:03 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Río Negro</zones>
+        <feedback>
+                <points> Puntaje: 24</points>
+                <composition> 96% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="449293948">
+        <title>Alquiler Quinta Para Eventos Y Temporada De Verano.</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=449293948</link><city>Pilar</city>
+<type>QUINTAS</type>
+<neighbourhood>Pilar</neighbourhood>
+<oper>Alquiler Temporario</oper>
+<size>0m²</size>
+<rooms>3 amb</rooms>
+<ambientes>Más de 4</ambientes><antiguedad>Hasta 5 años</antiguedad><baños>3</baños><edificacion>Chalet</edificacion><garage>Sí</garage><mtrscubiertos>250</mtrscubiertos>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=3119574854_092012.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>Y</mpago>
+	<currency>$</currency>
+        <price>2,500.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>3935</hits>
+        <auct_end>Tue, 14 May 2013 14:15:33 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Norte</zones>
+        <feedback>
+                <points> Puntaje: 10</points>
+                <composition> 86% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="448500686">
+        <title>Hermosa Quinta Descanso Parque Leloir: Pileta,cancha Fútbol.</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=448500686</link><city>Ituzaingó</city>
+<type>QUINTAS</type>
+<neighbourhood>Parque Leloir</neighbourhood>
+<oper>Alquiler Temporario</oper>
+<size>0m²</size>
+<rooms>3 amb</rooms>
+<ambientes>Más de 4</ambientes><antiguedad>Max 30 años</antiguedad><baños>3</baños><edificacion>Chalet</edificacion><garage>Sí</garage><mtrscubiertos>300</mtrscubiertos>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=3753788770_012013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>3,900.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>2294</hits>
+        <auct_end>Wed, 15 May 2013 01:01:37 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 7</points>
+                <composition> 100% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="449793030">
+        <title>Bariloche- Alojamiento Cabaña Costa Lago Gutierrez</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=449793030</link><city>Bariloche</city>
+<type>DEPARTAMENTOS</type>
+<neighbourhood>San Carlos de Bariloche</neighbourhood>
+<oper>Alquiler Temporario</oper>
+<size>200m²</size>
+<rooms>1 amb</rooms>
+<ambientes>1</ambientes><antiguedad>A estrenar</antiguedad><baños>1</baños><dormitorios>1</dormitorios><edificacion>Departamento</edificacion><mtrscubiertos>40</mtrscubiertos><suptotal>200</suptotal>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=2822894492_062012.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>Y</mpago>
+	<currency>$</currency>
+        <price>350.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>3531</hits>
+        <auct_end>Mon, 13 May 2013 12:40:10 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Río Negro</zones>
+        <feedback>
+                <points> Puntaje: 0</points>
+                <composition> 0% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="455788509">
+        <title>Alquiler De Quinta-Eventos,</title>
+        <subtitle>$ 1200 Con Manteleria Y Vajilla,mesas Y Sillas</subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=455788509</link><city>Ituzaingó</city>
+<type>QUINTAS</type>
+<neighbourhood>Parque Leloir</neighbourhood>
+<oper>Alquiler Temporario</oper>
+<size>0m²</size>
+<rooms>3 amb</rooms>
+<ambientes>3</ambientes><antiguedad>Max 5 años</antiguedad><baños>3</baños><edificacion>Otro tipo</edificacion><garage>Sí</garage><mtrscubiertos>300</mtrscubiertos>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=4047892635_032013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>600.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>4182</hits>
+        <auct_end>Wed, 03 Jul 2013 19:19:32 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 7</points>
+                <composition> 100% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item>
+  	</items>
+</listing>
+</response>

@@ -1,0 +1,82 @@
+<?php
+/* @var $this SiteController */
+
+$this->pageTitle=Yii::app()->name;
+
+?>
+este archivo esta en protected/views/site
+<h1>Bienvenido a <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
+<!--
+<p>Congratulations! You have successfully created your Yii application.</p>
+
+<p>You may change the content of this page by modifying the following two files:</p>
+<ul>
+	<li>View file: <code><?php echo __FILE__; ?></code></li>
+	<li>Layout file: <code><?php echo $this->getLayoutFile('main'); ?></code></li>
+</ul>
+
+<p>For more details on how to further develop this application, please read
+the <a href="http://www.yiiframework.com/doc/">documentation</a>.
+Feel free to ask in the <a href="http://www.yiiframework.com/forum/">forum</a>,
+should you have any questions.</p>
+
+-->
+
+
+<?php
+echo "archivo cargado: [/home/atem/test.xml]<br><br>";
+$xml = simplexml_load_file("/home/atem/test.xml");
+
+
+$arr = array();
+$arr2 = array();
+foreach($xml->children() as $child){
+//echo $child->getName().":".$xml->from."<br>";
+$arr[] = $child->getName();
+
+}////////////foreach
+//print_r($arr);echo "<br><br>";
+$renglon="";
+$x=0;
+foreach($xml->children() as $child){
+$arr2[] = $xml->$arr[$x];$x++;
+}
+for($i=0;$i<count($arr2);$i++){
+if($i==0){
+$renglon.="".$arr2[$i];
+}else{
+$renglon.=",".$arr2[$i];
+}
+
+
+
+}////////for
+/////////////////////////////////////////////////////////////////////////saving to database
+$renglon.="\tGuardado ".date("Y-M-d H:m:s a")."\n";
+$archivo = "/var/www/w1/atem_R1/yii/yiip/logs/log.csv";
+
+if(!true){
+echo "contenido guardado";
+$tb=new TblXmlNote;
+$tb->para=$arr2[0];
+$tb->remitente=$arr2[1];
+$tb->header=$arr2[2];
+$tb->body=$arr2[3];
+$tb->save();
+/////////////////////////////////////////////////////////////////////////!saving to database
+$contenido = file_get_contents($archivo);
+$gestor = fopen($archivo, "w");
+
+fwrite($gestor,$contenido);
+fwrite($gestor,$renglon);
+
+//echo "contenido:<br>$contenido<br>renglon:<br>$renglon";
+
+fclose($gestor);
+}///////if
+$contenido = file_get_contents($archivo);
+echo "<br>contenido<br>$contenido";
+?>
+ <br><br><br>
+<a href="/atem_R1/yii/yiip/index.php?r=xml_csv">importar</a>
+

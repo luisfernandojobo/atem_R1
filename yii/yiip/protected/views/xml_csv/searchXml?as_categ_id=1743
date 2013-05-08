@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE response SYSTEM "http://www.mercadolibre.com.ar/jm/ml.xml.dtd?id=DTD_ITEMS&charset=ISO-8859-1">
+<response type="items_listing" generation_date_gmt="Wed, 08 May 2013 20:42:54 GMT">
+<copyright>Copyright © 1999-2012 MercadoLibre S.A.</copyright>
+<url>http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1743&amp;&amp;as_categ_id=1743</url>
+<listing items_from="1" items_to="10" items_total="8400" order_by="Más Relevantes">
+	<search_properties>
+	       <word include_description="N"></word>
+               <filters>
+                  <filter></filter>
+                  <filter2></filter2>
+                  <state></state>
+                  <price></price>
+               </filters>
+		<parent_categories>
+			
+		</parent_categories>
+	</search_properties>
+	<result_categories>
+		<category id="1744" name="Autos y Camionetas" qty_items="5465" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1744" />
+<category id="1763" name="Motos" qty_items="1642" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1763" />
+<category id="1784" name="Planes de Ahorro" qty_items="417" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1784" />
+<category id="1785" name="Náutica" qty_items="358" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1785" />
+<category id="1907" name="Otros Vehículos" qty_items="313" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1907" />
+<category id="58254" name="Camiones" qty_items="135" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=58254" />
+<category id="1745" name="Autos de Colección" qty_items="70" link="http://www.mercadolibre.com.ar/jm/searchXml?as_categ_id=1745" />
+
+	</result_categories>
+	<items>
+		<item id="457519638">
+        <title>Honda Cbr 600</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=457519638</link>
+<model> cbr 600</model>
+<year>2013</year>
+<km>0</km>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=3897236767_022013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>16,000.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>11466</hits>
+        <auct_end>Sun, 02 Jun 2013 19:30:50 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 0</points>
+                <composition> 50% positivas </composition>
+        </feedback>   
+        <condition>Nuevo</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="454895530">
+        <title>Ford Ecosport Tdci 4x2 Xls Anticipo40.000 Y12 Cuotas De 2500</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=454895530</link>
+<model>FORD KA</model>
+<year>2006</year>
+<km>139000</km>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=4149023692_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>40,000.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>5530</hits>
+        <auct_end>Sat, 11 May 2013 19:52:22 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Capital Federal</zones>
+        <feedback>
+                <points> Puntaje: -1</points>
+                <composition> 40% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating>4</catalog_rating>     
+</item><item id="457929130">
+        <title>Fiat Siena Eld 1.7 Vendo Urgente!</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=457929130</link>
+<model>VOLKSWAGEN BORA</model>
+<year>1999</year>
+<km>16000</km>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=4239716449_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>29,500.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>8577</hits>
+        <auct_end>Thu, 06 Jun 2013 18:19:28 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Norte</zones>
+        <feedback>
+                <points> Puntaje: 20</points>
+                <composition> 92% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="456214079">
+        <title>Ecosport Xls Plus | 2011 | Primera Mano Impecable | 34000 Km</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=456214079</link>
+<model>FORD ECOSPORT</model>
+<year>2011</year>
+<km>34000</km>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=4213178095_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>90,500.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>1817</hits>
+        <auct_end>Thu, 23 May 2013 13:21:18 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Sur</zones>
+        <feedback>
+                <points> Puntaje: 18</points>
+                <composition> 88% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="457869554">
+        <title>Fiat Uno 5 Pts Scr 93 Motor 1.6</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=457869554</link>
+<model>FIAT UNO</model>
+<year>1993</year>
+<km>215000</km>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=4185858710_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>25,000.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>5315</hits>
+        <auct_end>Wed, 05 Jun 2013 22:21:44 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Sur</zones>
+        <feedback>
+                <points> Puntaje: 0</points>
+                <composition> 0% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="455920438">
+        <title>Ford Escort Motor Audi 1.8 Dado De Baja</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=455920438</link>
+<model>FORD ESCORT</model>
+<year>1993</year>
+<km>0</km>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=4096834519_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>1,500.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>4415</hits>
+        <auct_end>Mon, 20 May 2013 20:08:16 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 26</points>
+                <composition> 93% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="456139361">
+        <title>Vendo Gol 1,6 Gl Unico</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=456139361</link>
+<model>VOLKSWAGEN GOL</model>
+<year>1995</year>
+<km>196000</km>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=3828337940_022013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>25,500.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>6088</hits>
+        <auct_end>Wed, 22 May 2013 21:07:42 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 22</points>
+                <composition> 96% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="457091278">
+        <title>Vendo Land Rover Freelande</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=457091278</link>
+<model>LAND_ROVER FREELANDER</model>
+<year>1998</year>
+<km>200000</km>
+        <image_url>http://img2.mlstatic.com/jm/img?s=MLA&amp;f=4148404918_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>52,000.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>2669</hits>
+        <auct_end>Sat, 01 Jun 2013 14:51:25 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 6</points>
+                <composition> 80% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item><item id="456994927">
+        <title>Vendo Urgente Volkswagen Fox Trendline &amp;#40;no Clio, 206, 207&amp;#41;</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=456994927</link>
+<model>VOLKSWAGEN FOX</model>
+<year>2005</year>
+<km>120000</km>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=4057840636_032013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>55,000.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>4551</hits>
+        <auct_end>Fri, 31 May 2013 19:31:01 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 0</points>
+                <composition> 50% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating>5</catalog_rating>     
+</item><item id="457434762">
+        <title>* * Vendido * *</title>
+        <subtitle></subtitle>
+        <link>http://pmstrk.mercadolibre.com.ar/jm/PmsTrk?tool=XXX&amp;go=/jm/item?site=MLA$$id=457434762</link>
+<model>VOLKSWAGEN GOL</model>
+<year>1998</year>
+<km>154000</km>
+        <image_url>http://img1.mlstatic.com/jm/img?s=MLA&amp;f=4165594318_042013.jpg&amp;v=I</image_url>
+        <seller_type></seller_type>
+        <auction_type>BIN</auction_type>
+        <mpago>N</mpago>
+	<currency>$</currency>
+        <price>32,900.00</price>
+        <bids>0</bids>
+        <hot>N</hot>
+        <hits>3730</hits>
+        <auct_end>Sun, 02 Jun 2013 01:01:25 GMT</auct_end>
+	<listing_features>
+		<photo>N</photo>
+        	<highlight>N</highlight>
+        	<bold>N</bold>
+        </listing_features>
+        <zones>Bs.As. G.B.A. Oeste</zones>
+        <feedback>
+                <points> Puntaje: 27</points>
+                <composition> 94% positivas </composition>
+        </feedback>   
+        <condition>Usado</condition>
+        <catalog_rating></catalog_rating>     
+</item>
+  	</items>
+</listing>
+</response>

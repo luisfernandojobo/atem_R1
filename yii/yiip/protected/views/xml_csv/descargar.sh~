@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Descargando $1";
+lynx -source $1 >./imagenes1/img-$2.jpeg
